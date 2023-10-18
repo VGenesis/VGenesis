@@ -1,11 +1,36 @@
-Hi, I'm VGenesis, a 2nd year software engineering student. 
+Hi, I'm VGenesis, a 4th year computer architecture and software engineering student. 
 
-I started my programming journey in 2012 in QBASIC and then expanded my reach on various low and high level languages over nearly 10 years.
-I am currently active in Java and Godot. Other languages I've worked in include Assembly, C, C++, Python, Game Maker and a bit of Unity.
+I started my programming journey in 2012 in QBASIC and then expanded my reach on various low and high level languages as well as hardware design.
 
-I have no current experience in IT jobs, so I guess I will be posting my projects here until a recruiter notices.
+General purpose programming:
+* x86 Assembly
+* C/C++
+* Java
+* Rust
 
-Thanks for reading, and have a nice day!
+Web Development:
+* HTML, CSS, Bootstrap
+* JS, React, AJAX
+* PHP, Spring Boot
+
+Embedded systems:
+* Arduino
+
+Game Development:
+* GameMaker
+* Godot
+* Java
+
+Hardware Design Tools:
+* Logisim
+* Verilog/SystemVerilog
+
+Organizational/optional tools:
+* Git
+* Vim
+
+Currently on the lookout for jobs while I'm finishing school. Part-time work would be ideal.
+Thank you for reading, and have a nice day!
 
 <!---
 VGenesis/VGenesis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
