@@ -6,23 +6,25 @@ General purpose programming:
 * x86 Assembly
 * C/C++
 * Java
-* Rust
 
 Web Development:
 * HTML, CSS, Bootstrap
 * JS, React, AJAX
 * PHP, Spring Boot
 
-Embedded systems:
+Microprocessing systems:
 * Arduino
+* STM32
 
 Game Development:
 * GameMaker
 * Godot
 * Java
+* SDL2(C/C++)
 
 Hardware Design Tools:
 * Logisim
+* KiCAD
 * Verilog/SystemVerilog
 
 Organizational/optional tools:
